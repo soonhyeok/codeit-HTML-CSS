@@ -1,0 +1,29 @@
+#serif {
+        font-size: 50px;
+        font-family: "Times New Roman", Times, serif;
+}
+
+#sans-serif {
+        font-size: 50px;
+        font-family: "arial", sans-serif;
+}
+
+#monospace {
+        font-size: 50px;
+        font-family: "courier","courier New",monospace;
+}
+
+#cursive {
+        font-size: 50px;
+        font-family: "Comic Sans MS", "monotype Corsiva", cursive;
+}
+
+#fantasy {
+        font-size: 50px;
+        font-family: 'Roboto', sans-serify;
+}
+
+#google {
+        font-size: 50px;
+        font-family: 'Roboto', sans-serif;
+}
